@@ -14,3 +14,8 @@ Steps to install Vite
 
 
     all set
+
+    ---TASK-- 
+    1. create a new folder called "components"
+     - create a compnent called "AppTitle"
+        - set a title in the component "La mia prima app con Vite"
