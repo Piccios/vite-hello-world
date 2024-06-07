@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+Steps to install Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+1. once the repo is initialized:
 
-## Recommended IDE Setup
+    1. Open terminal
+    2. insert the command: npm create vite@latest my-vue-app
+    3. select the following options:
+        - Template: vue
+        - JavaScript
+    
+    4. insert command: npm install 
+        -this command will set new folders and files
+    5. insert command: npm run dev
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+
+    all set
