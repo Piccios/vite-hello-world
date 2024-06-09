@@ -3,7 +3,11 @@
 </script>
 
 <template>
-    <section>
+    <header>
         <h1>La mia prima app con Vite!</h1>
-    </section>
+    </header>
 </template>
+
+<style scoped>
+
+</style>
